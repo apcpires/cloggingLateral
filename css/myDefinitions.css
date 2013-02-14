@@ -1,0 +1,28 @@
+/*Icons of buttons*/
+.add16x16 {
+    background-image: url( ../imgs/buttons/16x16/Create.png) !important;
+}
+.remove16x16 {
+    background-image: url( ../imgs/buttons/16x16/Remove.png) !important;
+}
+.apply16x16 {
+    background-image: url( ../imgs/buttons/16x16/Apply.png) !important;
+}
+.cancel16x16 {
+    background-image: url( ../imgs/buttons/16x16/Cancel.png) !important;
+}
+.excel {
+    background-image: url( ../imgs/excel32x32.gif ) !important;
+}
+
+/*Style of the main header*/
+#header {
+    background: #7F99BE url(../imgs/layout-browser-hd-bg.gif) repeat-x center;
+}
+#header h1 {
+    font-size: 16px;
+    color: #fff;
+    font-weight: normal;
+    padding: 5px 10px;
+}
+
