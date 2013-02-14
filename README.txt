@@ -1,0 +1,1 @@
+The WEB application was developed using the framework ExtJs 4 (Sencha) under open source license and without commercial purposes. 
